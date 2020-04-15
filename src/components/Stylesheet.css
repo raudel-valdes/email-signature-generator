@@ -1,0 +1,15 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.formContainer {
+  position: absolute;
+  margin-left: 33%;
+  margin-right: 22%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  background-color: lightcoral;
+  border-radius: 20px;
+}
