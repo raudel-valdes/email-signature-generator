@@ -1,0 +1,1 @@
+This is a web application that generates email signatures given the required data.
