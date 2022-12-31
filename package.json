@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-scripts": "1.1.4"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -14,7 +14,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "css-loader": "^1.0.0",
-    "style-loader": "^0.22.1"
+    "css-loader": "^6.7.3",
+    "style-loader": "^3.3.1"
   }
 }
